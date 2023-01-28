@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-color: beige;
+}
+
+#canvas{
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+}
